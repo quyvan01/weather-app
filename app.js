@@ -7,7 +7,7 @@ const description = document.getElementById('description');
 const weatherIcon = document.getElementById('weatherIcon');
 
 // API endpoint and key (replace with your actual API key)
-const apiKey = 'ab336c4146ee4fdd4f148fd565b75c7d'; // Get this from OpenWeather or another weather API provider
+const apiKey = 'ef24bf6e0dc5ffdf3e661afdae45d5b8'; // Get this from OpenWeather or another weather API provider
 const apiUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Function to fetch weather data
